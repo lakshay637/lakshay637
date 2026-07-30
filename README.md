@@ -8,7 +8,9 @@
 <a href="mailto:lakshayb211@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
+<a href="https://github.com/lakshay637">
+  <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -59,19 +61,66 @@ Currently building projects that pair clean, functional interfaces with well-str
 
 </td>
 </tr>
+</table>
 
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Scientific Calculator
+
+A feature-rich calculator supporting trigonometric, logarithmic, and exponential operations alongside standard arithmetic, built with a focus on precise input parsing and a clean, responsive interface.
+
+`JavaScript` `HTML5` `CSS3`
+
+</td>
+<td valign="top" width="50%">
+
+### Text Analysis Tool
+
+A utility that analyzes text input to generate word and character counts, reading time estimates, and other content statistics in real time as the user types.
+
+`JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### E-Commerce Website
+
+A full stack online shopping platform featuring product listings, cart management, and order handling, built end-to-end on the MERN stack with a RESTful API backend.
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+</td>
+<td valign="top" width="50%">
+
+### Expense Tracker
+
+A personal finance application for logging, categorizing, and visualizing income and expenses, with persistent data storage and a dashboard for tracking spending trends.
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=1e293b&text_color=334155&icon_color=1e293b&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=ffffff&stroke=1e293b&ring=1e293b&fire=1e293b&currStreakLabel=1e293b" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshay637&show_icons=true&hide_border=true&title_color=1e293b&text_color=334155&icon_color=1e293b&bg_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay637&hide_border=true&background=ffffff&stroke=1e293b&ring=1e293b&fire=1e293b&currStreakLabel=1e293b" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&title_color=1e293b&text_color=334155&langs_count=8" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay637&layout=compact&hide_border=true&title_color=1e293b&text_color=334155&langs_count=8" width="60%" />
 </div>
 
 <br/>
@@ -80,7 +129,7 @@ Currently building projects that pair clean, functional interfaces with well-str
 
 <div align="center">
 
-LinkedIn: [linkedin.com/in/lakshay-bansal-a8959a2a1](https://linkedin.com/in/lakshay-bansal-a8959a2a1)  •  Email: lakshayb211@gmail.com  
+LinkedIn: [linkedin.com/in/lakshay-bansal-a8959a2a1](https://linkedin.com/in/lakshay-bansal-a8959a2a1)  •  Email: lakshayb211@gmail.com  •  GitHub: [github.com/lakshay637](https://github.com/lakshay637)
 
 </div>
 
