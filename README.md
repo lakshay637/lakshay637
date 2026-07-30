@@ -116,7 +116,7 @@ A personal finance application for logging, categorizing, and visualizing income
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lakshay637&show_icons=true&hide_border=true&title_color=1e293b&text_color=334155&icon_color=1e293b&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay637&hide_border=true&background=ffffff&stroke=1e293b&ring=1e293b&fire=1e293b&currStreakLabel=1e293b" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=lakshay637&hide_border=true&background=ffffff&stroke=1e293b&ring=1e293b&fire=1e293b&currStreakLabel=1e293b" width="48%" />
 </div>
 
 <div align="center">
