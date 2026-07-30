@@ -59,42 +59,7 @@ Currently building projects that pair clean, functional interfaces with well-str
 
 </td>
 </tr>
-</table>
 
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name One](https://github.com/YOUR-USERNAME/project-1)**
-Short description of what the project does, the problem it solves, and the tech stack used.
-
-</td>
-<td width="50%">
-
-**[Project Name Two](https://github.com/YOUR-USERNAME/project-2)**
-Short description of what the project does, the problem it solves, and the tech stack used.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Project Name Three](https://github.com/YOUR-USERNAME/project-3)**
-Short description of what the project does, the problem it solves, and the tech stack used.
-
-</td>
-<td width="50%">
-
-**[Project Name Four](https://github.com/YOUR-USERNAME/project-4)**
-Short description of what the project does, the problem it solves, and the tech stack used.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
