@@ -117,7 +117,7 @@ Short description of what the project does, the problem it solves, and the tech 
 
 <div align="center">
 
-LinkedIn: [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)  •  Email: your.email@example.com  •  LeetCode: [YOUR-LEETCODE-USERNAME](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+LinkedIn: [linkedin.com/in/lakshay-bansal-a8959a2a1](https://linkedin.com/in/lakshay-bansal-a8959a2a1)  •  Email: lakshayb211@gmail.com  •  LeetCode: [lakshayb211](https://leetcode.com/lakshayb211)
 
 </div>
 
