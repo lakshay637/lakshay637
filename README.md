@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Lakshay%20Bansal&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20C%2FC%2B%2B%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://linkedin.com/in/lakshay-bansal-a8959a2a1">
   <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:lakshayb211@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
+<a href="https://leetcode.com/lakshayb211">
   <img src="https://img.shields.io/badge/LeetCode-1e293b?style=flat-square&logo=leetcode&logoColor=white" />
 </a>
 
